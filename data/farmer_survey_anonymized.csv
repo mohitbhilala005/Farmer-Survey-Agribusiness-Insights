@@ -1,1 +1,93 @@
-
+﻿Farmer_ID,Age,Village,Education_Level,Farming_Experience_Years,Land_Holding_Acres,Farming_Type,Main_Crop,Irrigation,Annual_Production_Qtl,Aware_of_Modern_Technology,Awareness_of_Type_of_Modern_Technology,Technology_Information_Source,Uses_Modern_Tech,Type_of_Modern_Technology_Used,Technology_Affordable,Production_Increased_After_Technology,Profit_Increased_In_%,Involved_in_Agribusiness_Activity,Activity_Type,Income_Increased,Willing_to_Start_Agribusiness,Preferred_Agribusiness_Type,Major_Problem,Government_Assistance,Reason_for_Not_Adopting,Support_Needed
+F001,47,Manakpura,Graduate,28,7.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,110,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",TV & Social Media,No,,Yes,,,No,,,Yes,Aeroponics,Water Shortage,No,Lack of Awareness & Training,Training
+F002,60,Manakpura,Illiterate,48,4,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,75,No,,,No,,No,,,No,,,Yes,Vertical Farming,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F003,33,Lalpur,Matriculation,15,2.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,55,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media,Yes,"Solar System,Tractor",Yes,No,0,No,,,Yes,Aeroponics,Low Yield,Yes,Lack of Awareness & Training,
+F004,34,Chopna,Graduate,15,8,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Vegetables",Well & River,190,Yes,,Social Media,No,,No,,,Yes,Vegetable Farming,Yes,Yes,Mushroom & Vertical Farming,Market Support,No,Lack of Training & Resourses,
+F005,30,Chopna,Graduate,12,3.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",River,82,No,,,No,,Yes,,,No,,,Yes,Hydroponics,Low Yield,No,Lack of Awareness,Subsidy & Training
+F006,30,Chopna,Matriculation,10,1.5,Mixed Crop,"Wheat,Soyabean,Green Gram",Well,30,No,,,No,,No,,,No,,,Yes,Poultry Farming,Small Land,No,Money,Subsidy & Training
+F007,30,Chopna,Matriculation,12,3.1,Mixed Crop,"Wheat,Soyabean,Green Gram",Well,60,No,,,No,,No,,,No,,,Yes,Vertical Farming,Low Yield,No,Risk,Market Support
+F008,36,Chopna,Middle School,15,3,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,58,No,,,No,,No,,,No,,,Yes,Mushroom,Low Yield,No,Lack of Awareness,Subsidy & Training
+F009,70,Chopna,Middle School,56,1,Mixed Crop,"Wheat,Soyabean,Green Gram",Well,24,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F010,42,Jalalpura,High School,20,5,Mixed Crop,"Wheat,Corn,Sorghum,Gram,Mustard",Well,85,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media,No,,Yes,,,No,,,Yes,Vertical Farming & Fishery,Low Yield,No,Money,Subsidy
+F011,56,Jalalpura,Middle School,42,4.5,Mixed Crop,"Wheat,Corn,Sorghum,Gram",Well,60,Yes,"Sprinkler Irrigation,Solar System,Tractor",Farmer,No,,No,,,No,,,Yes,Vertical Farming & Fishery,Low Yield,No,Lack of Awareness,Subsidy & Training
+F012,39,Jalalpura,Matriculation,25,3.2,Mixed Crop,"Wheat,Gram,Corn,Vegetables,Mustard",Well & River,60,Yes,"Solar System,Tractor",Social Media,Yes,Solar System,Yes,Yes,10,Yes,Vegetable Farming,Yes,Yes,Vertical Farming,Money,No,Money,Subsidy & Training
+F013,42,Jalalpura,Middle School,25,3.75,Mixed Crop,"Wheat,Corn,Coriander,Gram,Mustard",Well,65,No,,,No,,Yes,,,No,,,Yes,Mushroom & Vertical Farming,Money,No,Lack of Awareness,Subsidy & Training
+F014,52,Mau,High School,30,2.5,Mixed Crop,"Wheat,Soyabean, Gram",Well,40,No,,,No,,No,,,No,,,Yes,Aeroponics,Water Shortage,No,Lack of Awareness,Subsidy & Training
+F015,45,Chopna,Illiterate,30,1,Mixed Crop,"Wheat,Soyabean",Well,27,No,,,No,,No,,,No,,,Yes,Vertical Farming,Small Land,No,Lack of Awareness,Subsidy & Training
+F016,35,Mau,Illiterate,20,3.2,Mixed Crop,"Wheat,Soyabean, Coriander",Well,60,No,,,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness,Subsidy & Training
+F017,40,Chopna,Middle School,28,12.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Coriander,Mustard",Well,280,No,,,No,,Yes,,,No,,,Yes,Vegetable Farming,Water Shortage,No,Lack of Awareness,Market Support
+F018,42,Chopna,Illiterate,20,1,Mixed Crop,"Soyabean,Corn,Wheat",Well,27,No,,,No,,No,,,Yes,Goat Farming,Yes,Yes,Goat Farming,Money,No,,Subsidy & Training
+F019,45,Mau,Illiterate,23,4,Mixed Crop,"Soyabean,Corn,Wheat,Gram",River,80,No,,,No,,No,,,No,,,Yes,Vegetable Farming,Flood,No,Lack of Awareness,Market Support
+F020,36,Mau,Graduate,12,5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,140,No,,,No,,Yes,,,No,,,Yes,Vertical Farming,Electricity,No,Lack of Awareness,Subsidy & Training
+F021,44,Mau,Illiterate,22,3.8,Mixed Crop,"Wheat,Soyabean,Corn",Well & River,66,Yes,"Sprinkler Irrigation,Solar System,Tractor",TV,Yes,Sprinkler Irrigation,Yes,No,0,No,,,Yes,Technology & Aeroponics,Training,No,Lack of Awareness & Training,Subsidy & Training
+F022,30,Mau,Graduate,7,6.3,Mixed Crop,"Wheat,Soyabean,Gram,Coriander",Well,180,No,,,No,,Yes,,,No,,,Yes,Dairy,Electricity,No,Lack of Awareness,Subsidy & Training
+F023,41,Chopna,Illiterate,29,2.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well,50,No,,,No,,No,,,No,,,Yes,Poultry Farming,Small Land,No,Market Support,Market Support
+F024,45,Chopna,Middle School,28,6.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,125,No,,,No,,No,,,No,,,Yes,Value Addition,Low Yield,No,Lack of Training & Resourses,Training & Market Support
+F025,35,Chopna,Middle School,20,1.3,Mixed Crop,"Wheat,Soyabean",Well,28,No,,,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Training & Resourses,Subsidy & Training
+F026,65,Chopna,Illiterate,50,2.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well & River,50,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F027,26,Chopna,High School,8,1.3,Mixed Crop,"Wheat,Soyabean",Well,40,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media,No,,No,,,No,,,Yes,Aeroponics,Money,No,Money,Subsidy & Training
+F028,30,Lalpur,Matriculation,15,1.3,Mixed Crop,"Wheat,Soyabean,Corn",River,38,No,,,No,,No,,,No,,,Yes,Aeroponics,Money,No,Money,Subsidy & Training
+F029,38,Chopna,Middle School,25,3,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well & River,65,No,,,No,,No,,,No,,,Yes,Poultry Farming,Money,No,Money,Subsidy & Training
+F030,35,Chopna,Matriculation,20,2.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well & River,55,No,,,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness,Subsidy & Training
+F031,46,Chopna,Illiterate,33,2.5,Mixed Crop,"Wheat,Soyabean,Corn",Well,55,Yes,Sprinkler Irrigation,Social Media,No,,No,,,Yes,Vegetable Farming,Yes,Yes,Mushroom & Vertical Farming,Market Support,No,Lack of Training & Resourses,Training
+F032,41,Chopna,Primary,28,3,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well & River,60,No,,,No,,Yes,,,No,,,Yes,Hydroponics,Water Shortage,No,Lack of Awareness,Subsidy & Training
+F033,42,Chopna,Illiterate,30,2.5,Mixed Crop,"Wheat,Soyabean,Corn",Well,55,No,,,No,,No,,,No,,,Yes,Poultry Farming,Small Land,No,Money,Subsidy & Training
+F034,40,Chopna,Primary,29,2.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,58,No,,,No,,No,,,No,,,Yes,Poultry Farming,Small Land,No,Market Support,Market Support
+F035,25,Chopna,High School,6,3,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well,65,No,,,No,,No,,,No,,,Yes,Vertical Farming,Small Land,No,Lack of Awareness,Subsidy & Training
+F036,55,Chopna,Illiterate,40,2.5,Mixed Crop,"Wheat,Soyabean,Corn",Well,52,No,,,No,,No,,,No,,,Yes,Mushroom,Low Yield,No,Lack of Training & Resourses,Training
+F037,58,Chopna,Illiterate,40,1,Mixed Crop,"Wheat,Soyabean,Corn",River,25,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F038,40,Mau,Illiterate,22,4,Mixed Crop,"Soyabean,Corn,Wheat,Gram",River,80,No,,,No,,No,,,No,,,Yes,Vegetable Farming,Flood,No,Lack of Awareness & Training,Market Support
+F039,55,Lalpur,Illiterate,37,2,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Tube Well,42,No,,,No,,No,,,No,,,Yes,Vertical Farming,Electricity,No,Lack of Awareness & Training,Subsidy & Training
+F040,56,Lalpur,Illiterate,38,2.5,Mixed Crop,"Wheat,Soyabean,Corn,Coriander",Well,45,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F041,60,Lalpur,Illiterate,44,1.5,Single crop,"Wheat,Soyabean,Vegetables",Well,30,No,,,No,,No,,,No,,,Yes,Dairy,Money,No,Money,Subsidy
+F042,75,Lalpur,Illiterate,51,1,Double crop,"Wheat,Corn",River,24,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F043,45,Lalpur,Primary,29,6.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,128,No,,,No,,No,,,No,,,Yes,Value Addition,Low Yield,No,Lack of Training & Resourses,Training & Market Support
+F044,80,Mau,Illiterate,56,9.3,Mixed Crop,"Wheat,Soyabean,Gram,Coriander,Green Gram",Well & River,200,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F045,42,Mau,Illiterate,26,3.1,Mixed Crop,"Wheat,Soyabean, Coriander,Corn",Well & River,65,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media,No,,Yes,,,No,,,Yes,Vegetable Farming,Money,No,Market Support,Market Support
+F046,80,Mau,Illiterate,52,3.2,Mixed Crop,"Wheat,Soyabean, Coriander,Corn",River,72,No,,,No,,Yes,,,No,,,No,,Aged Person,No,No Need,
+F047,34,Mau,Primary,18,6,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well & River,128,No,,,No,,Yes,,,No,,,Yes,Vegetable Farming,Money,No,Market Support,Market Support
+F048,40,Mau,Primary,24,3.1,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",River,65,No,,,No,,No,,,Yes,Goat Farming,Yes,Yes,Mushroom,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F049,30,Chopna,Middle School,14,7.8,Mixed Crop,"Wheat,Soyabean,Gram,Coriander,Green Gram,Corn,Gram",Well,176,No,,,No,,No,,,Yes,Dairy,Yes,Yes,Dairy,Market Support,No,,Market Support
+F050,71,Chopna,Illiterate,53,1.6,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Well,50,No,,,No,,No,,,No,,,Yes,Value Addition,Small Land,No,Lack of Training & Resourses,Training & Market Support
+F051,65,Chopna,Illiterate,50,5,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram,Gram",Well,125,Yes,Solar System,Farmer,No,,No,,,No,,,Yes,Mushroom,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F052,45,Chopna,Illiterate,30,3.8,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,85,No,,,No,,No,,,No,,,Yes,Dairy,Money,No,Money,Subsidy
+F053,65,Chopna,Illiterate,49,2.6,Mixed Crop,"Wheat,Soyabean,Corn",Well & River,65,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F054,46,Chopna,Illiterate,31,3,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,75,No,,,No,,No,,,No,,,Yes,Aeroponics,Money,No,Money,Subsidy & Training
+F055,52,Chopna,Illiterate,36,1,Mixed Crop,"Soyabean,Corn,Wheat",Well,25,No,,,No,,No,,,No,,,Yes,Poultry Farming,Money,No,Money,Subsidy & Training
+F056,30,Chopna,Matriculation,13,1.5,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Well,42,No,,,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness,Subsidy & Training
+F057,38,Chopna,Middle School,22,2.5,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",River,70,Yes,Solar System,Farmers & TV,No,,No,,,Yes,Goat Farming,Yes,Yes,Goat Farming,Money,No,,Subsidy
+F058,25,Chopna,High School,6,0.65,Double crop,"Wheat,Corn",Well,23,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media,No,,No,,,Yes,Goat Farming,Yes,Yes,Goat Farming,Money,No,,Subsidy
+F059,40,Chopna,Primary,24,4.5,Mixed Crop,"Soyabean,Corn,Wheat,Gram",Well,120,Yes,Solar System,Farmer,No,,No,,,Yes,Vegetable Farming,Yes,Yes,Value Addition,Market Support,No,Lack of Training & Resourses,Training & Resourses
+F060,56,Lalpur,Primary,40,3.1,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram,Mustard",River,88,No,,,No,,Yes,,,No,,,Yes,Hydroponics,Low Yield,No,Lack of Awareness,Subsidy & Training
+F061,42,Lalpur,Illiterate,27,3.2,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,90,No,,,No,,Yes,,,No,,,Yes,Mushroom,Low Yield,No,Lack of Awareness,Subsidy & Training
+F062,25,Lalpur,High School,9,4.5,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Well,125,No,,,No,,Yes,,,No,,,Yes,Mushroom,Low Yield,No,Lack of Awareness,Subsidy & Training
+F063,30,Lalpur,Middle School,14,1.2,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Well,35,No,,,No,,Yes,,,No,,,Yes,Vegetable Farming,Low Yield,No,Lack of Awareness,Market Support
+F064,28,Lalpur,Matriculation,13,3.2,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Well,90,No,,,No,,No,,,Yes,Goat Farming,Yes,Yes,Mushroom,Money,No,Lack of Awareness,Subsidy & Training
+F065,32,Lakadiya,High School,16,5.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,145,No,,,No,,No,,,Yes,Dairy,Yes,Yes,Dairy,Water Shortage,No,,Subsidy & Training
+F066,36,Lakadiya,Middle School,20,6,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well & River,170,No,,,No,,No,,,No,,,Yes,Vertical Farming,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F067,33,Lakadiya,Matriculation,18,4.5,Mixed Crop,"Wheat,Corn,Soyabean,Green Gram,Mustard",Well,80,Yes,Solar System,Farmer,No,,No,,,No,,,Yes,Mushroom,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F068,30,Lakadiya,High School,14,10,Mixed Crop,"Wheat,Gram,Corn,Soyabean",Well,195,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media & Farmers,Yes,Tractor,Yes,Yes,15,No,,,Yes,Vertical Farming,"Water Shortage,Crop destroyed by wild Animals",No,Risk,Training
+F069,34,Lakadiya,High School,18,9.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram,Mustard",Well,180,Yes,"Solar System,Tractor",Farmer,Yes,Tractor,Yes,Yes,15,Yes,Dairy,Yes,Yes,Dairy,"Water Shortage,Crop destroyed by wild Animals",No,,Training
+F070,36,Tajpura,Matriculation,18,5,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,96,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media & Farmers,Yes,Tractor,Yes,Yes,5,Yes,Poultry Farming,Yes,Yes,Poultry Farming,Water Shortage,No,,Subsidy & Training
+F071,27,Tajpura,High School,11,4.5,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram,Gram",Well,90,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",,No,,Yes,,,Yes,Poultry Farming,Yes,Yes,Poultry Farming,Money,No,,Market Support
+F072,25,Tajpura,Graduate,7,11,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram,Gram",Well & Canal,198,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media,No,,Yes,,,No,,,Yes,Vertical Farming,Low Yield,No,Lack of Awareness & Training,Subsidy & Training
+F073,27,Tajpura,High School,8,6,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram,Gram,Vegetables",River,110,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media,No,,No,,,Yes,Vegetable Farming,Yes,Yes,Vertical Farming,Market Support,No,Lack of Awareness & Training,Subsidy & Training
+F074,40,Chopna,High School,21,8,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,165,Yes,"Solar System,Tractor",TV & Farmers,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness & Training,Subsidy & Training
+F075,37,Chopna,Graduate,19,10,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well & River,195,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",TV & Social Media,Yes,Tractor,Yes,Yes,5,No,,,Yes,Value Addition,Water Shortage,No,Lack of Training & Resourses,Training & Market Support
+F076,30,Chopna,High School,13,7,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,142,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media & Farmers,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness & Training,Subsidy & Training
+F077,30,Chopna,Graduate,12,9,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Vegetables",Well & River,170,Yes,"Sprinkler & Drip Irrigation,Solar System,Tractor",Social Media & Farmers,Yes,"Tractor,Sprinkler Irrigation",Yes,Yes,10,Yes,Vegetable Farming,Yes,Yes,Vertical Farming,Market Support,No,Lack of Awareness & Training,Subsidy & Training
+F078,41,Mau,Illiterate,25,5,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well & River,95,No,,,No,,No,,,No,,,Yes,Mushroom,Money,No,Lack of Awareness & Training,Subsidy & Training
+F079,28,Lalpur,Graduate,10,11,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,198,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media,No,,Yes,,,Yes,Dairy,Yes,Yes,Dairy,Transport,No,,Market Support
+F080,70,Chopna,Primary,50,10,Mixed Crop,"Wheat,Gram,Soyabean,Corn,Green Gram",Well,192,No,,,No,,Yes,,,No,,,No,,Aged Person,No,No Need,
+F081,29,Mau,High School,11,5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,97,No,,,No,,Yes,,,No,,,Yes,Vertical Farming,Money,No,Lack of Awareness,Subsidy & Training
+F082,46,Mau,Illiterate,19,3.8,Mixed Crop,"Wheat,Soyabean,Corn",Well & River,68,Yes,"Solar System,Tractor",TV,No,,Yes,,,No,,,Yes,Aeroponics,Water Shortage,No,Lack of Awareness & Training,Subsidy & Training
+F083,75,Mau,Illiterate,44,3,Mixed Crop,"Wheat,Soyabean,Gram,Coriander",Well,59,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F084,48,Chopna,Illiterate,31,2.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well,44,No,,,No,,No,,,No,,,Yes,Poultry Farming,Money,No,Market Support,Market Support
+F085,32,Chopna,Middle School,15,6.5,Mixed Crop,"Wheat,Gram,Corn,Soyabean,Green Gram",Well,130,No,,,No,,No,,,No,,,Yes,Value Addition,Electricity,No,Lack of Training & Resourses,Training & Market Support
+F086,38,Chopna,Middle School,21,1.3,Mixed Crop,"Wheat,Soyabean",Well,27,No,,,No,,No,,,No,,,Yes,Mushroom,Low Yield,No,Lack of Training & Resourses,Subsidy & Training
+F087,77,Chopna,Illiterate,65,2.5,Mixed Crop,"Wheat,Coriander,Corn,Soyabean",Well & River,45,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F088,36,Mau,Primary,18,3.1,Mixed Crop,"Wheat,Soyabean, Coriander,Corn",Well & River,62,Yes,"Sprinkler Irrigation,Solar System,Tractor",Social Media,No,,Yes,,,No,,,Yes,Vertical Farming,Money,No,Lack of Awareness,Subsidy & Training
+F089,38,Tajpura,Illiterate,21,4,Mixed Crop,"Soyabean,Corn,Wheat,Gram",River,80,No,,,No,,No,,,No,,,Yes,Vegetable Farming,Flood,No,Lack of Awareness & Training,Market Support
+F090,39,Lalpur,Primary,22,2,Mixed Crop,"Wheat,Soyabean,Corn,Green Gram",Tube Well,40,No,,,No,,No,,,No,,,Yes,Vertical Farming,Electricity,No,Lack of Awareness & Training,Subsidy & Training
+F091,78,Mau,Illiterate,65,2.5,Mixed Crop,"Wheat,Soyabean,Corn,Coriander",Well,44,No,,,No,,No,,,No,,,No,,Aged Person,No,No Need,
+F092,61,Lalpur,Illiterate,44,1.5,Single crop,"Wheat,Soyabean,Corn,Vegetables",Well,31,No,,,No,,No,,,No,,,Yes,Vegetable Farming,Money,No,Money,Market Support
